@@ -131,3 +131,6 @@ dmypy.json
 ## Added by me :)
 .env
 data/_chat.txt
+data/_chat_translated.csv
+data/_chat_sentiment_analysis.csv
+data/_chat_sentiment_analysis_SQL.csv
